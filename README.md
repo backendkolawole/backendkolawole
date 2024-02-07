@@ -1,11 +1,13 @@
-### Hi there 👋, I'm Kolawole Abdulrahman
-## I am a Backend Developer and I like to write code in Python and JavaScript.
+## Hi there 👋, I'm Kolawole Abdulrahman
+### I am a Backend Developer and I like to write code in Python and JavaScript.
+
 
 - 👯 Interested in open-source collaborations
 - ✈️ Hire me for remote work
 - 📫 Take a look at my repositories and let's get in touch!
 
-### 🛠  Languages and Tools
+
+## 🛠  Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
 
